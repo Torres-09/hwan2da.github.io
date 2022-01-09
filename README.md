@@ -9,3 +9,5 @@ https://velog.io/@hwan2da
 > [세그먼트 트리](https://velog.io/@hwan2da/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8%ED%8A%B8%EB%A6%AC)
 ### 알고리즘
 > [KMP 알고리즘](https://velog.io/@hwan2da/알고리즘-KMP-알고리즘)   
+### 문제풀이
+> [백준 2357 - 최댓값과 최솟값](https://velog.io/@hwan2da/백준-2357)
