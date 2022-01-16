@@ -11,3 +11,4 @@ https://velog.io/@hwan2da
 > [KMP 알고리즘](https://velog.io/@hwan2da/알고리즘-KMP-알고리즘)   
 ### 문제풀이
 > [백준 2357 - 최댓값과 최솟값](https://velog.io/@hwan2da/백준-2357)
+> [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요)
