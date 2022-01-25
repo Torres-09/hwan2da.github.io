@@ -11,7 +11,8 @@ https://velog.io/@hwan2da
 ### 알고리즘
 > [KMP 알고리즘](https://velog.io/@hwan2da/알고리즘-KMP-알고리즘)   
 ### 문제풀이
-> [백준 2357 - 최댓값과 최솟값](https://velog.io/@hwan2da/백준-2357)   
 > [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요)   
-> [백준 11286 - 절댓값 힙](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-11286-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)   
 > [백준 2178 - 미로탐색](https://velog.io/@hwan2da/PS-백준-2178-미로-탐색)   
+> [백준 2357 - 최댓값과 최솟값](https://velog.io/@hwan2da/백준-2357)   
+> [백준 11286 - 절댓값 힙](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-11286-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)   
+
