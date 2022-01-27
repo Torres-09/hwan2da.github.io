@@ -10,6 +10,7 @@ https://velog.io/@hwan2da
 > [그래프](https://velog.io/@hwan2da/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%9E%98%ED%94%84)
 ### 알고리즘
 > [KMP 알고리즘](https://velog.io/@hwan2da/알고리즘-KMP-알고리즘)   
+> [DFS와 BFS](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DFS%EC%99%80-BFS)
 ### 문제풀이
 > [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요)   
 > [백준 2178 - 미로탐색](https://velog.io/@hwan2da/PS-백준-2178-미로-탐색)   
