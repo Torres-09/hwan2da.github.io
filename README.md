@@ -15,6 +15,7 @@ https://velog.io/@hwan2da
 > [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요)   
 > [백준 2178 - 미로탐색](https://velog.io/@hwan2da/PS-백준-2178-미로-탐색)   
 > [백준 2357 - 최댓값과 최솟값](https://velog.io/@hwan2da/백준-2357)   
+> [백준 7569 - 토마토](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-7569-%ED%86%A0%EB%A7%88%ED%86%A0)<br>
 > [백준 7576 - 토마토](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0)<br>
 > [백준 11286 - 절댓값 힙](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-11286-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)   
 
