@@ -14,6 +14,7 @@ https://velog.io/@hwan2da
 ### 문제풀이
 > [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요)   
 > [백준 1697 - 숨바꼭질](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)<br>
+> [백준 2042 - 구간 합 구하기](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-2042-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0)<br>
 > [백준 2178 - 미로탐색](https://velog.io/@hwan2da/PS-백준-2178-미로-탐색)   
 > [백준 2357 - 최댓값과 최솟값](https://velog.io/@hwan2da/백준-2357)   
 > [백준 7569 - 토마토](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-7569-%ED%86%A0%EB%A7%88%ED%86%A0)<br>
