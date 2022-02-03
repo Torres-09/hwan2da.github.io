@@ -12,7 +12,7 @@ https://velog.io/@hwan2da
 > [KMP 알고리즘](https://velog.io/@hwan2da/알고리즘-KMP-알고리즘)   
 > [DFS와 BFS](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DFS%EC%99%80-BFS)
 ### 문제풀이
-> [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요) -    
+> [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요) - 세그먼트 트리<br>
 > [백준 1697 - 숨바꼭질](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)<br>
 > [백준 2206 - 벽 부수고 이동하기](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-2206-%EB%B2%BD-%EB%B6%80%EC%88%98%EA%B3%A0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0)<br>
 > [백준 2042 - 구간 합 구하기](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-2042-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0)<br>
