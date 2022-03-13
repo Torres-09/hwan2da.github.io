@@ -32,5 +32,5 @@ https://velog.io/@hwan2da
 > [백준 11286 - 절댓값 힙](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-11286-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)<br>
 > 
 ### Spring Boot
->[프로젝트 환경설정](https://velog.io/@hwan2da/Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)
+>[프로젝트 환경설정](https://velog.io/@hwan2da/Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)   
 >[인텔리제이 github 연동하기](https://velog.io/@hwan2da/Spring-Boot-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-github%EC%97%90-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)   
