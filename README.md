@@ -15,6 +15,7 @@ https://velog.io/@hwan2da
 > [다익스트라 알고리즘](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)<br>
 > [최장 증가 부분 수열](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%9E%A5-%EC%A6%9D%EA%B0%80-%EC%88%98%EC%97%B4-LIS)<br>
 > [이분 탐색 알고리즘](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-Binary-Search)<br>
+> [Lazy Propagation](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Lazy-Propagation) <br> 
 > 
 ### 문제풀이
 > [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요) - 세그먼트 트리<br>
