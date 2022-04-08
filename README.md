@@ -18,7 +18,7 @@ https://velog.io/@hwan2da
 > [Lazy Propagation](https://velog.io/@hwan2da/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Lazy-Propagation) <br> 
 > 
 ### 문제풀이
-> [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-백준-1655-가운데를-말해요) - 세그먼트 트리<br>
+> [백준 1655 - 가운데를 말해요](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-1655-%EA%B0%80%EC%9A%B4%EB%8D%B0%EB%A5%BC-%EB%A7%90%ED%95%B4%EC%9A%94-egps2wo5)<br>
 > [백준 1697 - 숨바꼭질](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)<br>
 > [백준 1753 - 최단경로](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-1753-%EC%B5%9C%EB%8B%A8-%EA%B2%BD%EB%A1%9C)   
 > [백준 1967 - ](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-1967-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EC%A7%80%EB%A6%84)   
