@@ -42,3 +42,6 @@ https://velog.io/@hwan2da
 
 ### AWS
 >[AWS EC2 인스턴스 생성, 탄력적 IP 연결](https://velog.io/@hwan2da/AWS-EC2-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) <br> 
+
+### 보안
+>[WebGoat](https://velog.io/@hwan2da/%EB%B3%B4%EC%95%88-WebGoat)
