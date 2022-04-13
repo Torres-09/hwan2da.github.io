@@ -45,3 +45,6 @@ https://velog.io/@hwan2da
 
 ### 보안
 >[WebGoat](https://velog.io/@hwan2da/%EB%B3%B4%EC%95%88-WebGoat)
+
+### 머신러닝
+>[지도학습과 비 지도 학습](https://velog.io/@hwan2da/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-Supervised-Learning-Unsupervised-Learning-%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5-%EB%B9%84-%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5) <
