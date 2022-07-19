@@ -35,6 +35,10 @@ https://velog.io/@hwan2da
 > [백준 12015 - 가장 긴 증가하는 부분 수열 2](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-12015-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4-2)<br>
 > [백준 11286 - 절댓값 힙](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-11286-%EC%A0%88%EB%8C%93%EA%B0%92-%ED%9E%99)<br>
 > [백준 14003 - 가장 긴 증가하는 부분 수열 5](https://velog.io/@hwan2da/PS-%EB%B0%B1%EC%A4%80-14003-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4-5)
+<br>
+
+### PS 구현
+> [순열과 조합 구현하기](https://velog.io/@hwan2da/PS-%EC%88%9C%EC%97%B4%EA%B3%BC-%EC%A1%B0%ED%95%A9-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)<br>
 
 ### Spring Boot
 >[프로젝트 환경설정](https://velog.io/@hwan2da/Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)   
