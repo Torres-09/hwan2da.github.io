@@ -59,3 +59,7 @@ https://velog.io/@hwan2da
 
 ### DB
 >[논리삭제와 물리삭제](https://velog.io/@hwan2da/DB-Soft-Delete-VS-Hard-Delete) <br> 
+
+### Git
+>[깃 커밋 메시지 컨벤션 (유다시티)](https://velog.io/@hwan2da/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%A4%EC%85%98) <br>
+
