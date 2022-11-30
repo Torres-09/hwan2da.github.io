@@ -40,10 +40,12 @@ https://velog.io/@hwan2da
 ### PS 구현
 > [순열과 조합 구현하기](https://velog.io/@hwan2da/PS-%EC%88%9C%EC%97%B4%EA%B3%BC-%EC%A1%B0%ED%95%A9-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)<br>
 
-### Spring Boot
+### Spring
 >[프로젝트 환경설정](https://velog.io/@hwan2da/Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)   
 >[인텔리제이 github 연동하기](https://velog.io/@hwan2da/Spring-Boot-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-github%EC%97%90-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)   
->[클라이언트 전달 방식 - mvc, api](https://velog.io/@hwan2da/Spring-Boot-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%A0%84%EB%8B%AC-%EB%B0%A9%EC%8B%9D)   
+>[클라이언트 전달 방식 - mvc, api](https://velog.io/@hwan2da/Spring-Boot-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%A0%84%EB%8B%AC-%EB%B0%A9%EC%8B%9D)<br>
+>[ResponseEntity](https://velog.io/@hwan2da/Spring-ResponseEntity)<br>
+
 
 ### AWS
 >[AWS EC2 인스턴스 생성, 탄력적 IP 연결](https://velog.io/@hwan2da/AWS-EC2-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) <br> 
