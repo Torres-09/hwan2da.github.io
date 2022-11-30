@@ -65,5 +65,7 @@ https://velog.io/@hwan2da
 
 ### JPA
 >[임베디드 타입](https://velog.io/@hwan2da/JPA-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%ED%83%80%EC%9E%85)<br>
+>[Enum 타입](https://velog.io/@hwan2da/JPA-Enum-%ED%83%80%EC%9E%85)<br>
+
 
 
