@@ -63,3 +63,7 @@ https://velog.io/@hwan2da
 ### Git
 >[깃 커밋 메시지 컨벤션 (유다시티)](https://velog.io/@hwan2da/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%A4%EC%85%98) <br>
 
+### JPA
+>[임베디드 타입](https://velog.io/@hwan2da/JPA-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%ED%83%80%EC%9E%85)<br>
+
+
