@@ -64,6 +64,8 @@ https://velog.io/@hwan2da
 ### JPA
 >[임베디드 타입](https://velog.io/@hwan2da/JPA-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%ED%83%80%EC%9E%85)<br>
 >[Enum 타입](https://velog.io/@hwan2da/JPA-Enum-%ED%83%80%EC%9E%85)<br>
+>[영속성 컨텍스트, Cascade 옵션](https://velog.io/@hwan2da/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-Cascade-%EC%98%B5%EC%85%98)<br>
+
 
 ### Spring
 >[프로젝트 환경설정](https://velog.io/@hwan2da/Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95)   
