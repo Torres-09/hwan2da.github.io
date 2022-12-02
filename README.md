@@ -67,6 +67,7 @@ https://velog.io/@hwan2da
 >[영속성 컨텍스트, Cascade 옵션](https://velog.io/@hwan2da/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-Cascade-%EC%98%B5%EC%85%98)<br>
 >[자기 자신과 연관관계를 갖는 엔티티](https://velog.io/@hwan2da/JPA-%EC%9E%90%EA%B8%B0-%EC%9E%90%EC%8B%A0%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EB%A5%BC-%EA%B0%96%EB%8A%94-%EC%97%94%ED%8B%B0%ED%8B%B0)<br>
 >[@Column(unique=true) & UniqueConstraints](https://velog.io/@hwan2da/JPA-Columnuniquetrue-UniqueConstraints)<br>
+>[lazyLoading 및 조회 성능 최적화 ( XTOMany )](https://velog.io/@hwan2da/JPA-lazyLoading-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-XTOMany)
 
 
 
