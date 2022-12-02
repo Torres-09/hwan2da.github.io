@@ -65,7 +65,9 @@ https://velog.io/@hwan2da
 >[임베디드 타입](https://velog.io/@hwan2da/JPA-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%ED%83%80%EC%9E%85)<br>
 >[Enum 타입](https://velog.io/@hwan2da/JPA-Enum-%ED%83%80%EC%9E%85)<br>
 >[영속성 컨텍스트, Cascade 옵션](https://velog.io/@hwan2da/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-Cascade-%EC%98%B5%EC%85%98)<br>
->[자기 자신과 연관관계를 갖는 엔티티](https://velog.io/@hwan2da/JPA-%EC%9E%90%EA%B8%B0-%EC%9E%90%EC%8B%A0%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EB%A5%BC-%EA%B0%96%EB%8A%94-%EC%97%94%ED%8B%B0%ED%8B%B0)<br> 
+>[자기 자신과 연관관계를 갖는 엔티티](https://velog.io/@hwan2da/JPA-%EC%9E%90%EA%B8%B0-%EC%9E%90%EC%8B%A0%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EB%A5%BC-%EA%B0%96%EB%8A%94-%EC%97%94%ED%8B%B0%ED%8B%B0)<br>
+>[@Column(unique=true) & UniqueConstraints](https://velog.io/@hwan2da/JPA-Columnuniquetrue-UniqueConstraints)<br>
+
 
 
 ### Spring
