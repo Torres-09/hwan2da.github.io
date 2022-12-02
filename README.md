@@ -68,6 +68,7 @@ https://velog.io/@hwan2da
 >[자기 자신과 연관관계를 갖는 엔티티](https://velog.io/@hwan2da/JPA-%EC%9E%90%EA%B8%B0-%EC%9E%90%EC%8B%A0%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EB%A5%BC-%EA%B0%96%EB%8A%94-%EC%97%94%ED%8B%B0%ED%8B%B0)<br>
 >[@Column(unique=true) & UniqueConstraints](https://velog.io/@hwan2da/JPA-Columnuniquetrue-UniqueConstraints)<br>
 >[lazyLoading 및 조회 성능 최적화 ( XTOMany )](https://velog.io/@hwan2da/JPA-lazyLoading-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-XTOMany)
+>[JPA] 객체 지향, ORM, JPA](https://velog.io/@hwan2da/JPA-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-ORM-JPA)
 
 
 
