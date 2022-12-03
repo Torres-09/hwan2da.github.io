@@ -78,6 +78,8 @@ https://velog.io/@hwan2da
 >[인텔리제이 github 연동하기](https://velog.io/@hwan2da/Spring-Boot-%EC%9D%B8%ED%85%94%EB%A6%AC%EC%A0%9C%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-github%EC%97%90-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)   
 >[클라이언트 전달 방식 - mvc, api](https://velog.io/@hwan2da/Spring-Boot-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%A0%84%EB%8B%AC-%EB%B0%A9%EC%8B%9D)<br>
 >[ResponseEntity](https://velog.io/@hwan2da/Spring-ResponseEntity)<br>
+>[QueryDSL 기존 학습 코드 개선하기](https://velog.io/@hwan2da/QueryDSL-%EA%B8%B0%EC%A1%B4-%ED%95%99%EC%8A%B5-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)<br>
+>
 
 ### Java
 >[@PostConstruct, @PreDestroy](https://velog.io/@hwan2da/Java-PostConstruct-PreDestroy)<br>
