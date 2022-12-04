@@ -70,6 +70,8 @@ https://velog.io/@hwan2da
 >[lazyLoading 및 조회 성능 최적화 ( XTOMany )](https://velog.io/@hwan2da/JPA-lazyLoading-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-XTOMany)<br>
 >[객체 지향, ORM, JPA](https://velog.io/@hwan2da/JPA-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-ORM-JPA)<br>
 >[lazyLoading 최적화 ( XToOne )](https://velog.io/@hwan2da/JPA-lazyLoading-%EC%B5%9C%EC%A0%81%ED%99%94-XToOne)<br>
+>[엔티티 클래스 개발 주의사항](https://velog.io/@hwan2da/JPA-%EC%97%94%ED%8B%B0%ED%8B%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD)   
+
 
 
 
