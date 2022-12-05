@@ -81,7 +81,8 @@ https://velog.io/@hwan2da
 >[클라이언트 전달 방식 - mvc, api](https://velog.io/@hwan2da/Spring-Boot-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%A0%84%EB%8B%AC-%EB%B0%A9%EC%8B%9D)<br>
 >[ResponseEntity](https://velog.io/@hwan2da/Spring-ResponseEntity)<br>
 >[QueryDSL 기존 학습 코드 개선하기](https://velog.io/@hwan2da/QueryDSL-%EA%B8%B0%EC%A1%B4-%ED%95%99%EC%8A%B5-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)<br>
->
+>[RequestBody vs RequestParam vs RequestPart vs ModelAttribute](https://velog.io/@hwan2da/Spring-RequestBody-vs-RequestParam-vs-RequestPart-vs-ModelAttribute)<br>
+
 
 ### Java
 >[@PostConstruct, @PreDestroy](https://velog.io/@hwan2da/Java-PostConstruct-PreDestroy)<br>
