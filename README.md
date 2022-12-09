@@ -90,6 +90,8 @@ https://velog.io/@hwan2da
 
 ### Java
 >[@PostConstruct, @PreDestroy](https://velog.io/@hwan2da/Java-PostConstruct-PreDestroy)<br>
+>[try-with-resource](https://velog.io/@hwan2da/Java-Try-with-resource)<br>
+
 
 
 
