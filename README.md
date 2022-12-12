@@ -86,6 +86,8 @@ https://velog.io/@hwan2da
 >[RequestBody vs RequestParam vs RequestPart vs ModelAttribute](https://velog.io/@hwan2da/Spring-RequestBody-vs-RequestParam-vs-RequestPart-vs-ModelAttribute)<br>
 >[싱글톤 컨테이너](https://velog.io/@hwan2da/Spring-%EC%8B%B1%EA%B8%80%ED%86%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)<br>
 >[변경감지와 병합](https://velog.io/@hwan2da/Spring-%EB%B3%80%EA%B2%BD%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9)<br>
+>[validation](https://velog.io/@hwan2da/Spring-Validation-01-02)<br>
+
 
 
 ### Java
