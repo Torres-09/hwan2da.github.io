@@ -94,8 +94,4 @@ https://velog.io/@hwan2da
 >[@PostConstruct, @PreDestroy](https://velog.io/@hwan2da/Java-PostConstruct-PreDestroy)<br>
 >[try-with-resource](https://velog.io/@hwan2da/Java-Try-with-resource)<br>
 >[추상클래스 vs 인터페이스](https://velog.io/@hwan2da/Java-Abstract-Class-vs-Interface)<br>
-
-
-
-
-
+>[가비지 콜렉션](https://velog.io/@hwan2da/Java-Gabage-Collection)<br>
