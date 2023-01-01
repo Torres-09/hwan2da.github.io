@@ -86,6 +86,7 @@ https://velog.io/@hwan2da
 >[변경감지와 병합](https://velog.io/@hwan2da/Spring-%EB%B3%80%EA%B2%BD%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9)<br>
 >[validation](https://velog.io/@hwan2da/Spring-Validation-01-02)<br>
 >[카카오 로그인 구현하기](https://velog.io/@hwan2da/Spring-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)<br>
+>[트러블 슈팅 - QueryDSL Bean Error](https://velog.io/@hwan2da/Spring-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-QueryDSL-Bean-Error)<br>
 
 
 
