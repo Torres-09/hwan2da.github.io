@@ -97,6 +97,7 @@ https://velog.io/@hwan2da
 >[추상클래스 vs 인터페이스](https://velog.io/@hwan2da/Java-Abstract-Class-vs-Interface)<br>
 >[가비지 콜렉션](https://velog.io/@hwan2da/Java-Gabage-Collection)<br>
 >[스레드 풀](https://velog.io/@hwan2da/Java-Thread-Thread-Pool)<br>
+>[Custom Annotation](https://velog.io/@hwan2da/Java-Custom-Annotation)<br>
 
 
 ### Docker
