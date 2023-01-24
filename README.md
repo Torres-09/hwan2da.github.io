@@ -89,7 +89,9 @@ https://velog.io/@hwan2da
 >[트러블 슈팅 - QueryDSL Bean Error](https://velog.io/@hwan2da/Spring-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-QueryDSL-Bean-Error)<br>
 >[Swagger UI & SpringDoc (OpenAPI) - 01](https://velog.io/@hwan2da/Spring-Swagger-UI-SpringDoc-OpenAPI-01)<br>
 
-
+### QueryDSL
+>[QueryDSL Expression](https://velog.io/@hwan2da/Spring-QueryDSL-Expression-Dateformat)<br>
+>[기존 학습 코드 개선하기](https://velog.io/@hwan2da/QueryDSL-%EA%B8%B0%EC%A1%B4-%ED%95%99%EC%8A%B5-%EC%BD%94%EB%93%9C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)<br>
 
 ### Java
 >[@PostConstruct, @PreDestroy](https://velog.io/@hwan2da/Java-PostConstruct-PreDestroy)<br>
