@@ -112,6 +112,7 @@ https://velog.io/@hwan2da
 >[What is CI / CD ?](https://velog.io/@hwan2da/DevOps-What-is-CI-CD)<br>
 
 ### 도서리뷰
->[자바 ORM 표준 JPA 프로그래밍 001](https://velog.io/@hwan2da/%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1%EC%9E%A5)
->[자바 ORM 표준 JPA 프로그래밍 002](https://velog.io/@hwan2da/%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%98%81%EC%86%8D%EC%84%B1)
->[자바 ORM 표준 JPA 프로그래밍 003](https://velog.io/@hwan2da/%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91)
+>[자바 ORM 표준 JPA 프로그래밍 001](https://velog.io/@hwan2da/%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1%EC%9E%A5)<br>
+>[자바 ORM 표준 JPA 프로그래밍 002](https://velog.io/@hwan2da/%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%98%81%EC%86%8D%EC%84%B1)<br>
+>[자바 ORM 표준 JPA 프로그래밍 003](https://velog.io/@hwan2da/%EB%8F%84%EC%84%9C-%EB%A6%AC%EB%B7%B0-%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91)<br>
+>
