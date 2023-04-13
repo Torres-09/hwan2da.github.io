@@ -101,6 +101,10 @@ https://velog.io/@hwan2da
 >[스레드 풀](https://velog.io/@hwan2da/Java-Thread-Thread-Pool)<br>
 >[Custom Annotation](https://velog.io/@hwan2da/Java-Custom-Annotation)<br>
 
+### 데이터베이스
+>[CAP 이론](https://velog.io/@hwan2da/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-CAP-%EC%9D%B4%EB%A1%A0)<br>
+>[트랜잭션과 4가지 성질, ACID, 격리수준](https://velog.io/@hwan2da/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-4%EA%B0%80%EC%A7%80-%EC%84%B1%EC%A7%88-ACID-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80)<br>
+
 
 ### Docker
 >[Docker 기본](https://velog.io/@hwan2da/Docker-Docker%EB%9E%80)<br>
