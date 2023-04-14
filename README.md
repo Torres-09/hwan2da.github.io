@@ -105,6 +105,8 @@ https://velog.io/@hwan2da
 >[CAP 이론](https://velog.io/@hwan2da/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-CAP-%EC%9D%B4%EB%A1%A0)<br>
 >[트랜잭션과 4가지 성질, ACID, 격리수준](https://velog.io/@hwan2da/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-4%EA%B0%80%EC%A7%80-%EC%84%B1%EC%A7%88-ACID-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80)<br>
 
+### 서버
+>[Proxy Server, 캐싱, 로드밸런싱](https://velog.io/@hwan2da/Proxy-Server-%EC%BA%90%EC%8B%B1-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1)<br>
 
 ### Docker
 >[Docker 기본](https://velog.io/@hwan2da/Docker-Docker%EB%9E%80)<br>
