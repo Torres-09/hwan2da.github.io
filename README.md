@@ -89,6 +89,8 @@ https://velog.io/@hwan2da
 >[트러블 슈팅 - QueryDSL Bean Error](https://velog.io/@hwan2da/Spring-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-QueryDSL-Bean-Error)<br>
 >[Swagger UI & SpringDoc (OpenAPI) - 01](https://velog.io/@hwan2da/Spring-Swagger-UI-SpringDoc-OpenAPI-01)<br>
 >[Spring Batch 1](https://velog.io/@hwan2da/Spring-Batch-Batch%EB%9E%80)<br>
+>[RabbitMQ, AMQP](https://velog.io/@hwan2da/WebSocket-RabbitMQ-AMQP)<br>
+
 
 ### TDD
 >[테스트 주도 개발](https://velog.io/@hwan2da/TDD-Junit5)<br>
