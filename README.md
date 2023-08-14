@@ -95,7 +95,8 @@ https://velog.io/@hwan2da
 ### TDD
 >[테스트 주도 개발](https://velog.io/@hwan2da/TDD-Junit5)<br>
 >[Junit5 Assertions API](https://velog.io/@hwan2da/TDD-Junit5-Assertions-API)<br>
->[Junit5 Overview](https://velog.io/@hwan2da/TDD-Junit5-Overview)<br> 
+>[Junit5 Overview](https://velog.io/@hwan2da/TDD-Junit5-Overview)<br>
+>[Junit Assertions](https://velog.io/@hwan2da/TDD-Junit-Assertions-2f3pzu27) <br> 
 
 
 ### QueryDSL
